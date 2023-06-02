@@ -12,7 +12,10 @@ Ansible. Часть 1
 3. Создайте файл inventory. Предлагается использовать файл, размещённый в папке с проектом, а не файл inventory по умолчанию.
 4. Проверьте доступность хостов с помощью модуля ping.
 ### Ответ:
-
+![7-01_1 1](https://github.com/Roman-Teterevlev/SYS-21_7-01/assets/132853752/10e03904-ecd6-403c-8040-488574420e6f)
+![7-01_1 2](https://github.com/Roman-Teterevlev/SYS-21_7-01/assets/132853752/320e003d-ece4-4446-b369-d4c5579e0972)
+![7-01_1 3](https://github.com/Roman-Teterevlev/SYS-21_7-01/assets/132853752/23a402de-f1d9-494e-8978-ac955c4b6191)
+![7-01_1 4](https://github.com/Roman-Teterevlev/SYS-21_7-01/assets/132853752/ba3b4a2e-0d9a-4890-ac34-6d787d6b6655)
 ## Задание 3
 Ответьте на вопрос в свободной форме.
 
