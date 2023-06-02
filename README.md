@@ -35,3 +35,4 @@ Ansible. Часть 1
 ![7-01_4 3](https://github.com/Roman-Teterevlev/SYS-21_7-01/assets/132853752/1d2be913-299a-468d-a528-a810d8c3ba68)
 ![7-01_4 4](https://github.com/Roman-Teterevlev/SYS-21_7-01/assets/132853752/624a91aa-e46f-4ce2-9760-ef0ecbca1787)
 ![7-01_4 5](https://github.com/Roman-Teterevlev/SYS-21_7-01/assets/132853752/127c6a03-56c8-44a3-af2c-2c42cbf96d65)
+![7-01_4 6](https://github.com/Roman-Teterevlev/SYS-21_7-01/assets/132853752/635765d0-8858-4a7a-baef-baf26a16379c)
