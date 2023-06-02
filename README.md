@@ -30,3 +30,8 @@ Ansible. Часть 1
 2. Проверьте статус любого, присутствующего на управляемой машине, сервиса.
 3. Создайте файл с содержимым «I like Linux» по пути /tmp/netology.txt.
 ### Ответ:
+![7-01_4 1](https://github.com/Roman-Teterevlev/SYS-21_7-01/assets/132853752/104d8bb0-2f38-4369-90c6-7c74227c59c1)
+![7-01_4 2](https://github.com/Roman-Teterevlev/SYS-21_7-01/assets/132853752/b7ad6526-b815-4212-81a1-70ee7b0774bc)
+![7-01_4 3](https://github.com/Roman-Teterevlev/SYS-21_7-01/assets/132853752/1d2be913-299a-468d-a528-a810d8c3ba68)
+![7-01_4 4](https://github.com/Roman-Teterevlev/SYS-21_7-01/assets/132853752/624a91aa-e46f-4ce2-9760-ef0ecbca1787)
+![7-01_4 5](https://github.com/Roman-Teterevlev/SYS-21_7-01/assets/132853752/127c6a03-56c8-44a3-af2c-2c42cbf96d65)
